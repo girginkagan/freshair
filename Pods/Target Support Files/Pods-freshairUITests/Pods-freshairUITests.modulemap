@@ -1,0 +1,6 @@
+framework module Pods_freshairUITests {
+  umbrella header "Pods-freshairUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

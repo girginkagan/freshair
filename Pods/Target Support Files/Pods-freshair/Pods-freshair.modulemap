@@ -1,0 +1,6 @@
+framework module Pods_freshair {
+  umbrella header "Pods-freshair-umbrella.h"
+
+  export *
+  module * { export * }
+}
